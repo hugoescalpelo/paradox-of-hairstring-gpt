@@ -16,6 +16,9 @@ En este documento recopilo las ideas que en mi opinión definen de que trata est
     - Hay que formar una relación con la tecnología en lugar de que la tecnología sea algo que nos suceda de forma circunstancial.
     - Hay que repensar, redefinir y extender el concepto de privacidad. Aplicado a este proyecto, entender la dinamica inicial de los algoritmos en nuestra sociedad y dar lugar a nuevos conceptos que logren describir lo que experimentamos
     - Me parece que el problema esta en describir este nuevo fenómeno con ideas previamente definidas
+7. Confirmation Bias
+8. Es algo diferente al uroboros
+9. Tiempo, memoria, espacio
 
 ## Products
 
